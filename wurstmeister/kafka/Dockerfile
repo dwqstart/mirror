@@ -1,1 +1,1 @@
-FROM library/kafka:laster
+FROM wurstmeister/kafka:latest

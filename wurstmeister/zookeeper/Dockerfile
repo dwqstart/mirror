@@ -1,1 +1,1 @@
-FROM wurstmeister/zookeeper:laster
+FROM wurstmeister/zookeeper:latest
