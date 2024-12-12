@@ -1,1 +1,1 @@
-FROM momgo:8.0.4
+FROM mongo:8.0.4
